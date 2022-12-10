@@ -1,2 +1,2 @@
-# VisitorPattern
-Implementation of VisitorPattern in Java
+# Visitor pattern
+Implementation of visitor pattern in Java
